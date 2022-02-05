@@ -17,6 +17,9 @@ module.exports = {
                {
                   loader: 'css-loader',
                   options: {
+                     //module = true / hash css index and classnames
+                     //module = false / do not hash the  css index and classnames
+                     //Copy the rules in wepback.dev for css if you don't want to hash
                      modules: true,
                      sourceMap: false,
                   },
