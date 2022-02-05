@@ -71,8 +71,8 @@ module.exports = {
       }),
       new CopyPlugin({
          patterns: [
-            { from: '../public/manifest.json', to: '' },
-            { from: '../public/robots.txt', to: '' },
+            { from: './public/manifest.json', to: '' },
+            { from: './public/robots.txt', to: '' },
          ],
       }),
    ],

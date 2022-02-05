@@ -65,7 +65,7 @@ module.exports = {
       new webpack.optimize.AggressiveMergingPlugin(),
       new webpack.NoEmitOnErrorsPlugin(),
       new HTMLWebpackPlugin({
-         favicon: './favicon/logo.webp',
+         favicon: './public/icons8-react-30.png',
          template: path.resolve(__dirname, '..', './src/index.html'),
       }),
    ],
