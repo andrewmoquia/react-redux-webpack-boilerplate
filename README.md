@@ -13,7 +13,7 @@ Bundle the project using webpack.
 # npm test
 Bundle the project and go live using the bundled project.
 
-# This app additionallu uses
+# This app additionally uses
 1. cssnano - minify css
 2. dotenv-webpack - to be able to access variables in env (do not include most sensitive datas)
 3. prettier - to beautify your code
