@@ -1,0 +1,12 @@
+{
+  "name": "React Template",
+  "short_name": "React Template",
+  "start_url": "/",
+  "icons": [],
+  "theme_color": "#000000",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": ".",
+  "lang": "en-US"
+}
