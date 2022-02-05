@@ -16,6 +16,7 @@ Bundle the project and go live using the bundled project.
 # This app additionally uses
 1. cssnano - minify css
 2. dotenv-webpack - to be able to access variables in env (do not include most sensitive datas)
+                    approach to get env variables might be different depend on your hosting site.
 3. prettier - to beautify your code
 4. eslint - get notify for warnings and errors
 5. lint-staged - check for errors and beautify before pushing to git
