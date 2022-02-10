@@ -7,10 +7,10 @@ Install dependencies to run the app.
 # npm start
 Go live in localhost.
 
-# npm build
+# npm run build
 Bundle the project using webpack.
 
-# npm test
+# npm run test
 Bundle the project and go live using the bundled project.
 
 # This app additionally uses
